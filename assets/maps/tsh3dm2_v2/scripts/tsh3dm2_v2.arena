@@ -1,0 +1,9 @@
+{
+map             "tsh3dm2_v2"
+bots            "Anarki Doom Orbb Hunter Bones"
+longname        "Rust and Chrome"
+message         "Rust and Chrome - by tehSandwich"
+timelimit       "15"
+fraglimit       "0"
+type            "ffa team"
+}

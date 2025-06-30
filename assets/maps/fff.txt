@@ -1,0 +1,58 @@
+================================================================
+Title                   : fff
+Date                    : 09.01.00 
+Filename                : fff.bsp
+Author                  : "stecki"
+Email Address           : stecki@terrafusion.com
+Home Page               : deconstruct.terrafusion.com
+Description             : deathmatch level for quake3.
+
+Additional Credits to   : ID software, InSoc, PIL
+
+================================================================
+
+* Play Information *
+
+Single Player           : No
+Deathmatch              : Yes, 4+
+Difficulty Settings     : No
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : WorldCraft1.6a - Q3Radiant
+Known Bugs              : geez, i thought i fixed them
+Build Time              : Dunno
+
+Textures used           : a few...
+
+Compile machine         : P300 with 128M ram 
+Compile Time            : dunno, didn't watch
+Brushes                 : yes
+Entities                : that sounds like porn
+Models                  : I'm too ugly to be a model
+
+* Other Info *
+
+used to be nice, now you're too nice
+used to be good, now you're too good
+Good times, now they must end
+on you no one can depend
+farewell my fair weathered friend.
+
+PIL - Compact Disc (c)1985
+
+The electric sound was ripped from InSoc's "Peace and Love Inc." album.
+
+I actually started this level way before q3a ever shipped, but felt it converted well.
+
+thanks to pjw for the pointers posted on ..::LVL in the beta section, they helped out a lot.
+thanks to the q3r dev team for testing (www.quakerally.com)
+thanks to www.john-lydon.com
+
+
+* Copyright / Permissions *
+
+distribute non commercially freely, but please include this textfile with the map.  if you wanna do anything else with it, please email me.  i love lawsuits.
+
+I wish I had more witty remarks for my read me file, but i just don't.  I apologize...

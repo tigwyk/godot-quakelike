@@ -1,0 +1,82 @@
+- File Information -------------------------------------------------------- 06.13.2000 ---
+               Title : Let's Drink Beer and Shoot Things
+            Filename : lun3dm2.pk3
+              Author : Lunaran
+       Email Address : LtCmdrLun@aol.com
+                       Please don't ask me to help out with your mod.  I'm already on one.
+            Web Site : Visit http://lunaran.fragland.net
+   Previous Releases : lun3dm1 - Coriolis Storm, Q3DM
+                       lun2dm1 - The Gridlock, Q2DM
+                       westfront - Westfront Facility, HLDM
+                       complex - The Complex, Q2DM
+        Installation : To install, simply unzip and place lun3dm2.pk3 in your baseq3 
+                       directory wherever you installed Quake3: Arena.  The map should now 
+                       be accessible via the Multiplayer menu or by typing "\map lun3dm2" at 
+                       the console without the quotes.
+    Acknowledgements : Anyone who liked lun3dm1, id, everyone at QMap, Nug, and Bill Stuckey
+   Facknowledgements : id for the wonderfully smart bots, and those wonderfully helpful 
+                       attendees of the Q3World Level Editing Forum for answering all of my 
+                       questions
+        Beta Testers : than, Killer, Scampie, NotoriousRay, DeathMonger, Auhsan, "Barf Hubris,"
+                       Alcatraz & his team
+
+- Play Information -----------------------------------------------------------------------
+         Player Base : Free-For-All, 1 on 1
+        Default Bots : Doom, Gorre, Razor, Wrack, Lucy
+   Number of Players : 2-6
+           Item Load : 2 SGs, RL, RG, PG, LG, GL, 2 YAs, RA, MH, Haste.
+
+- Construction ---------------------------------------------------------------------------
+                Base : New level from scratch (old unused Q2 level design)
+      Texture Scheme : LunBase (blue)
+   Construction Time : ~40 hours over 30 days
+        Prefabs Used : None
+    Average R_Speeds : 4200 world, entities, no players
+ Worst Case R_Speeds : 5800 world, entities, no players
+      Editor(s) used : QERadiant 197
+        Known Issues : The Quake3 bots are UNBELIEVABLY STUPID.  ... so that isn't really an 
+                       issue with the map as such, but it certainly affects solo play.  
+                       Several items, including the RL, require a simple jump to reach.  The 
+                       Q3 bots are completely incapable of jumping to anything without the 
+                       assistance of a jumppad, and henceforth none of them can get the RA 
+                       without dropping onto it from above, none use the RL, and none go for 
+                       the Regen or Megahealth.
+                     : I have tried several user add-on bots, and the only one that adds 
+                       capability of jumping to an item is the RWG_BotAI tweak, 
+                       (http://www.quotientsystems.com/q3), and even then performance is damn 
+                       sorry.  They do actually grab the RL and MH, but only once in a blue 
+                       moon.
+                     : Henceforth, I strongly reccomend you play this map with living beings 
+                       until some better bots come out (or you die, whichever comes first).  
+                       If you are a diehard solo person like I am, use the RWG bot or, likely 
+                       more enjoyably, play a different map altogether.
+                     : In an ideal world, the pulse of the lights would sync with the pulse of
+                       the sound, but Q3 apparently does not aggressively track what times 
+                       things happen, and so the two can sometimes come out of sync after a
+                       teleportation or a visit to the MH.
+                     : The engine likes to apply a very light blue haze of fog to the cieling
+                       of the dome room.  It's invisible if you aren't looking for it and 
+                       doesn't affect gameplay.
+
+- Compilation ----------------------------------------------------------------------------
+      Q3Map BSP Time : 20 seconds
+      Q3Map VIS Time : 12 seconds
+    Q3Map LIGHT Time : 1 hour, 40 minutes
+     Lighting Params : -extra
+    Compile Computer : PII 300mhz, 128 megs of RAM, Win98
+
+- Copyright / Permissions ----------------------------------------------------------------
+   Authors May Not decompile the BSP as a base to build additional levels.  Make your own 
+damned maps.
+   Authors may use the included custom textures & shaders, or modifications thereof, provided
+they give note of such in an attached readme.  Also be sure to use directories and filenames 
+different than those in lun3dm2.pk3, or else you run the risk of having both maps excluded
+from pure servers.
+   You MAY distribute this pak file and/or its contents by any electronic means, provided 
+you leave the contents unaltered and include this text file, also unaltered.  This file may 
+not be commercially exploited in any way.
+
+              ,===========================================,
+              |  -- "It's the platinum record Bumpus got  |
+              | for 'Let's Drink Beer and Shoot Things.'" |
+              '==========================================='

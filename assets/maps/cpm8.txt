@@ -1,0 +1,67 @@
+released: 16 August, 2000, Updated on 21 August, 2000.
+-------------------------------------------------------------------
+Title                   : Clowning Around
+Filename                : cpm8.bsp
+Author                  : FxR|jude
+Homepage		: http://www.team-fxr.com/jude . Note, URL has changed from fxr.qgl.org/jude.
+Email Address           : adonald@nsw.bigpond.net.au
+Description             : q3 duel map			   			   			   			                             
+-----------------------------------------------------------------
+
+-------------------------------------------------------------------
+- Play Information -
+-------------------------------------------------------------------
+
+Settings                : bleh
+Deathmatch 2-8          : not really - although 9 or 10 dm starts
+Duel			: Designed for duel. Preferably CPM (Challenge Pro Mode - http://www.challenge-world/promode).
+
+-------------------------------------------------------------------
+- Construction -
+-------------------------------------------------------------------
+
+Design Time      	 : 2 and a half weeks. Originally a very small q2 rail practise map. I then change it to q3 textures and built on that.
+
+Settings		 : q3map			- 3 seconds (Celeron 566 @ 866)
+			   q3map -vis -level 4		- 2 minutes
+			   q3map -light			- 3 minutes
+
+
+Editor used  	 	 : Quark6 - http://www.planetquake.com/quark, good luck with getting radiant to work with a V3.
+
+Compile Utilities	 : q3map by id
+Known Bugs      	 : None now. Curves are now fixed at r_subdivisions 4 and 20. 
+
+Comments		 : You can stand on top of the pipe in the RL room. Use it, but dont abuse it. I'm quoting the 'realistic movement' argument here.
+			 : Circle jump to MH is only do-able in Challenge Pro Mode. I can make it consistantly without strafe jump just before the circle jump.
+			 : This map will probably suck for both FFA and tourney modes for normal Quake3 (ie, not Promode) due to 50YA. Designed primarly CPM's 100YA armor style in mind.
+			
+Additional Credits	 : Sky shader and image originally designed by Senn from RA3/PQ - http://planetquake.com/servers/arena 
+			   FxR logo designed by FxR|zero. 
+			   Deadstar for some design pointers (lights, shadows, clips etc).
+			   Some playtesting by FxR|Mode2, FxR|Zero, FxR|Python and [EEB]Interfearance.
+
+
+-------------------------------------------------------------------
+- Instructions -
+-------------------------------------------------------------------
+
+Place .pk3 file into baseq3 directory. Create a multiplayer server - i have included a .arena file (which will only show up in Tourney mode), or alternatively, type map q3jdm12 in Quake3 console.
+
+-------------------------------------------------------------------
+- Copyrights/Permissions -
+-------------------------------------------------------------------
+
+This map design (q3jdm12) is copyright 2000 by FxR|jude - adonald@nsw.bigpond.net.au.
+
+This map MAY NOT be used as a base for other levels.
+
+This map MAY be distributed on bbs sites or the
+ WWW, as long as this text file is included, intact.
+
+This map MAY NOT be distributed on CD or floppy
+ unless you have the author's permission.
+
+
+
+

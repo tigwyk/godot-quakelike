@@ -1,0 +1,57 @@
+[gd_scene load_steps=4 format=3 uid="uid://d0r1vhlpsd8sg"]
+
+[ext_resource type="Script" uid="uid://cyvet5eravlh0" path="res://scripts/settings_menu.gd" id="1_05p07"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_owc20"]
+bg_color = Color(0.770569, 0.485916, 0.733502, 1)
+
+[sub_resource type="LabelSettings" id="LabelSettings_owc20"]
+font_size = 36
+
+[node name="SettingsMenu" type="Control" node_paths=PackedStringArray("close_button", "sens_slider")]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_05p07")
+close_button = NodePath("PanelContainer/MarginContainer/VBoxContainer/Button")
+sens_slider = NodePath("PanelContainer/MarginContainer/VBoxContainer/HSlider")
+
+[node name="PanelContainer" type="PanelContainer" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_styles/panel = SubResource("StyleBoxFlat_owc20")
+
+[node name="MarginContainer" type="MarginContainer" parent="PanelContainer"]
+layout_mode = 2
+theme_override_constants/margin_left = 10
+theme_override_constants/margin_top = 10
+theme_override_constants/margin_right = 10
+theme_override_constants/margin_bottom = 10
+
+[node name="VBoxContainer" type="VBoxContainer" parent="PanelContainer/MarginContainer"]
+layout_mode = 2
+
+[node name="Label" type="Label" parent="PanelContainer/MarginContainer/VBoxContainer"]
+layout_mode = 2
+text = "Sensitivity"
+label_settings = SubResource("LabelSettings_owc20")
+
+[node name="HSlider" type="HSlider" parent="PanelContainer/MarginContainer/VBoxContainer"]
+layout_mode = 2
+max_value = 1.0
+step = 0.001
+
+[node name="HSeparator" type="HSeparator" parent="PanelContainer/MarginContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="Button" type="Button" parent="PanelContainer/MarginContainer/VBoxContainer"]
+layout_mode = 2
+theme_override_font_sizes/font_size = 36
+text = "Close"

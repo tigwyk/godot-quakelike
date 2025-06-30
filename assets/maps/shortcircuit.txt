@@ -1,0 +1,98 @@
+Tuesday Juli 18th 2000,
+
+This is a Quake III Arena - Deatchmatch Level
+
+======= a Level for ID Software's Quake III Arena ========
+Map Title		: Short Circuit
+FileName(.pk3)		: ShortCircuit.pk3
+FileSize(.pk3)		: 3.128.280 bytes			
+FileAddress		: http://dl.fileplanet.com/dl/dl.asp?binaryshi/shortcircuit.zip
+Map Author		: Binaryshi
+E-Mail			: binaryshi@planetquake.com
+HomePage		: http://www.planetquake.com/binaryshi
+
+============== Level Information ===============
+MapTitle		: Short Circuit
+GameType		: DeathMatch and  Tourney
+NumberPlayers	: 2 - 4
+BotPlay		: Yes
+Arena File		: Yes; Daemia and Doom
+Enviroment		: A small, tight, space/base level.
+Added Textures	: Only Id's textures, some are resized/slightly modified for this map
+Added Sky		: Xen Nebula by  Darc, from http://halflife.lowlife.com/wadfather/
+Added Scripts		: Modified excisting scripts
+Added Sounds		: No
+Added Music		: No
+
+Construction		:From scratch. There's a minimum use of curved patches, liking the idea that it allows
+			 for easy conversions to other game engines like Quake2, later on.
+
+============== Levels By Binaryshi =================
+Quake2		: Area 52		http://dl.fileplanet.com/dl/dl.asp?binaryshi/q2a52.zip
+			  Lava Valley		http://dl.fileplanet.com/dl/dl.asp?binaryshi/v2ydm1.zip
+			  Hit The Bricks		http://dl.fileplanet.com/dl/dl.asp?binaryshi/v2ydm2.zip
+Quake III Arena	: RocknRoland		http://dl.fileplanet.com/dl/dl.asp?binaryshi/rocknroland.zip
+			  Short Circuit		http://dl.fileplanet.com/dl/dl.asp?binaryshi/shortcircuit.zip
+
+=================== Thank You Goes To =====================
+http://www.idsoftware.com			For creating The Best Games in The World...
+http://www.qeradiant.com			For creating and publishing the Q3Radiant Editor and Q3Map compiler...
+
+http://www.quake3world	Paul Jaquay	http://www.idsoftware.com
+				AstroCreep	http://organicfusion.com/astrocrp/
+				SpoG		http://www.planetquake.com/spog
+		For taking the time to explain the answers to questions I'm stuck with. Thank you.
+
+http://www.quake3world.com/ubb/Forum6/HTML/006734.html
+				Niptlar		http://www.planetquake.com/integral
+				pjw		http://xtgl.com/pjw
+				Unitool		http://www.quake3hut.com/unitool
+				and snickelfritz, Maleficus, Thrash, korruptive_2001, XedSypher
+		For checking out the beta which I pulished there and then gave me their view which helped me with final touch, and
+
+Muny		http://www.planetquake.com/munyul
+		For giving me his opinion about an urly beta, and made us LANners very happy in the past with his dozens of Classic Quake
+		Deathmatch Levels. (muny 15 was my favorite). Check out his new site, also for the release of his first Q3A level...
+
+Karl Romer, Captain@Godmode, TCBO1, Krogdyr, Roland, Leo, and Exaer (http://quake3.net-games.com)
+		For being ICQ dudes, Friends, Deathmatchers and or Mappers,
+		giving feedback, exchanging ideas, check levels out, having deathmatch fun through online play or sometimes a LANparty
+
+===================== Tech Info ======================
+Work Station		: Abit BP6, BX, Celeron 400@500, 128 MB RAM, Diamond v770 (TNT2), CTX 19", Windows 98
+Editor Used		: Q3Radiant 201
+Tools			: Q3Build
+Compiler		: Q3Map v1.0m (c) 1999 Id Software Inc.
+----------------   Compile Output ----------------------
+BSP			:	writing E:\Quake3\baseq3\maps\shortcircuit.prt
+				writing E:\Quake3\baseq3\maps\shortcircuit.bsp
+				   75 seconds elapsed
+VIS (full)		:	reading E:\Quake3\baseq3\maps\shortcircuit_51.bsp
+				reading E:\Quake3\baseq3\maps\shortcircuit_51.prt
+				  1673 portalclusters
+				  4253 numportals
+				  5675 numfaces
+				  8506 active portals
+				  3456 hint portals
+				visdatasize:361376
+				0...1...2...3...4...5...6...7...8...9... (55)
+				      6 average number of passages per leaf
+				     30 MB required passage memory
+				0...1...2...3...4...5...6...7...8...9... (90)
+				0...1...2...3...4...5...6...7...8...9... (588)
+				creating leaf vis...
+				Average clusters visible: 252
+				writing E:\Quake3\baseq3\maps\shortcircuit_51.bsp
+(12m18s)->			738.00 seconds elapsed
+RAD (-extra)		:	  144 light emitting surfaces
+				0...1...2...3...4...5...6...7...8...9... (9)
+				0...1...2...3...4...5...6...7...8...9... (899)
+				writing E:\Quake3\baseq3\m	aps\shortcircuit_51.bsp
+(15m14s)->			  914 seconds elapsed
+AAS			:	see "shortcircuit-bspclog.txt" inside shortcircuit.pk3 archive
+
+			Binaryshi © 2000
+--------------------------------------------------------------
+Quake III Arena © 1999 Id Software. All rights reserved.
+--------------------------------------------------------------
+ 

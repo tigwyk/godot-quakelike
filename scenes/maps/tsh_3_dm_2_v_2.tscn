@@ -1,0 +1,9 @@
+[gd_scene load_steps=3 format=3 uid="uid://p4vb1t4bs2lq"]
+
+[ext_resource type="PackedScene" uid="uid://blyn1jb0n4wx1" path="res://assets/maps/tsh3dm2_v2/maps/tsh3dm2_v2.bsp" id="1_322wt"]
+[ext_resource type="PackedScene" uid="uid://bwggrf7sbmkcv" path="res://addons/PlayerCharacter/Scenes/PlayerCharacterScene.tscn" id="2_nlpbs"]
+
+[node name="tsh3dm2_v2" instance=ExtResource("1_322wt")]
+
+[node name="PlayerCharacter" parent="." index="205" instance=ExtResource("2_nlpbs")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 39.7166, 13.1247, 26.1063)

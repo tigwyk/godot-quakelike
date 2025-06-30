@@ -1,0 +1,52 @@
+================================================================
+Title                   : Up Close and Personal
+PK3 Name                : d3xf1.pk3
+Date                    : November 4, 2000
+Author                  : Ágúst Atlason[DruZli of MurK]
+E-mail                  : drusla@simnet.is
+Description             : Quake III Arena Duel Map
+================================================================
+
+
+* Play Information *
+
+- This map was designed for Challenge Pro Mode but plays
+  just as well in regular Quake III.
+
+
+* Description *
+
+Game type     : Duel
+Player load   : 2
+Respawn spots : 6
+New Sounds    : No
+New Graphics  : Yes, jump pads made by n1-Decker (your the greatest!)
+		and xtc made the texture with the CPM logo.
+Known issues  : Bots are not willing to use the teleporter
+
+
+* Credits *
+
+- n1-Decker for all his help; please visit his site 
+  @ http://www.killerinstincts.com/decker/ for great maps
+- n1-xfoo for item placement, playtesting, and suggestions.
+- others who helped in testing like n1-AgenT, n1-Decker, Khaile,
+  among others.
+- xtc for making the CPM texture for me
+- the guy who made the Challenge ProMode logo, Duncan Miller[fuse]
+- I would also like to thank the promode team
+  for making promode which can be downloaded @ www.promode.org
+
+
+* Copyright / Permissions *
+
+Copyright (2000) by Ágúst Atlason. All rights reserved.
+
+This package may only be distributed by means of electronic transfer,
+free of any charge to the recipient, and may not be modified in any way.
+All the files included in the original package must remain intact and
+unmodified.
+
+This package may not be distributed on any CD-ROM, nor be
+used on a commercial multi-player server without the prior,
+explicit written consent of Ágúst Atlason.

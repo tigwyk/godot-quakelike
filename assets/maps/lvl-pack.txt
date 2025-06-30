@@ -1,0 +1,155 @@
+--------------------------------------------------22.Nov.2000--
+    ..::LvL pack - the cream off the top
+
+
+ i,    what to do
+ ii,   single play support
+ iii,  authors and maps
+ iv,   running a server
+ v,    who did this?
+ vi,   some info
+ vii,  thanx, credits 
+ viii, copyright info
+
+
+
+----what to do-------------------------------------------------
+
+Extract the contents of lvl-pack.zip to your baseq3 folder. 
+Start a game as per normal. Some levels will only appear in the 
+Tourney menu, others only in the Free For All.
+
+If you wish to play the maps as a 4 Teir single player mission 
+see below for more info.
+
+
+----single play support----------------------------------------
+
+Included with this pack is a file called lvl-pack-sp.zip. This 
+file contains "lvl-creamontop.pk3" which will create a 4 Tier 
+single player game of all of the maps.
+
+Extract (with directory structure) to your main Quake III Arena 
+folder. Once this is done there will be a "lvl-pack-sp" folder 
+under your main Q3A folder.
+
+In the "lvl-pack-sp" folder you should find the following files:
+ - lvl-creamontop.pk3
+ - lvl-pack.txt (a copy of this file)
+ - lvl-pack.bat
+ - lvl-pack-ioquake3.x86.bat
+
+If you want to "record" your stats and progress through the 4 
+tiers, you need to start the game with "+set fs_game lvl-pack-sp". 
+
+For Windows users, you can use the included "lvl-pack.bat" (for 
+standard Quake3) or "lvl-pack-ioquake3.x86.bat" for IOQuake3 
+users.
+
+Mac and Linux users will need work out how to do this.
+
+While you can use the Quake 3 menu system to select the 
+"lvl-pack-sp" mod and start the single player mission, your 
+"stats" and tier progress is NOT recorded this way.
+
+Bot play is not great on all the maps, but its better than 
+nothing :]
+
+
+
+----authors and maps-------------------------------------------
+
+* Natestah's Beotch by Nathan Silvers (natedm2)
+* Future Brownie by Fingers (ik3dm1)
+* Japanese Castles by g1zm0 (japandm)
+* Heavy Duty by Mr.CleaN (mrcq3t3)
+* Beatbox by ztn (ztn3dm2)
+* Let's Drink Beer and Shoot Things by Lunaran (lun3dm2)
+* Golconda by Bal (bal3dm2)
+* Blood Run by ztn (ztn3dm1)
+* The BackStab by Auhsan (auh3dm2)
+* Short Circuit by Binaryshi (shortcircuit)
+* Clowning Around by FxR|jude (cpm8)
+* OverWhelming Hostility by Auhsan (auh3dm1)
+* fff by stecki (fff)
+* Infernal Genesis by DeV (devdm3)
+* Up Close and Personal by DruZli (d3xf1)
+* Tig's Den by Tigger-oN (tig_den)
+
+
+----running a server-------------------------------------------
+
+Also included are three map cycle files for server admins;
+
+* lvl-pack.cfg - contains all the maps, suits 2 to 6 players
+* lvl-pack-sm.cfg - targeted at 2 to 4 players games
+* lvl-pack-big.cfg - optimal for 4 to 6 player games
+
+If you currently run a server you will know what to do with 
+these. If your new to it all, start your server and type the 
+following at the console;
+
+\exec lvl-pack.cfg 
+(or lvl-pack-sm.cfg or lvl-pack-big.cfg)
+
+This will start the map cycle and set the timelimit at 15 
+minutes with a fraglimit of 50. After a lot of play testing 
+I've found this to be a very comfortable set-up for a LAN or 
+online server.
+
+
+----who did this?----------------------------------------------
+
+The ..::LvL pack was put together by Tigger-oN with full 
+permission given by the level authors. For more info check 
+out - http://lvlworld.com/
+
+
+----some info--------------------------------------------------
+
+After 11 months of map reviews at ..::LvL I've decided to put 
+together some of the best maps in one big fat download. The 
+maps included are some of my favourites. I've included levels 
+that I feel are great for playing humans on a small LAN or 
+online server. Bots files are included however the maps are 
+best against humans. For practical reasons there are only 16 
+maps included.
+
+Challenge Pro Mode comes highly recommended with this pack. 
+You can grab the latest build from http://www.promode.org/
+
+lvl-pack-textures.pk3 contains a few missing textures and 
+scripts from the maps included in the pack.
+
+
+----thanx, credits---------------------------------------------
+
+Big fat thanx with a huge cherry on top goes out to all the 
+mappers who have work in this pack.
+
+Another big fat thanx goes out to all the mappers that have 
+submitted work to ..::LvL over the last 11 months, its you lot 
+that has kept ..::LvL going strong.
+
+And one more big fat thanx goes out to all the people that drop 
+by ..::LvL and leave a comment about the maps (or just drop to 
+check out what's new)
+
+
+----copyright info---------------------------------------------
+
+Copyright is held by the level authors individual. Consult 
+their <mapname>.txt for more information.
+
+This package as a whole (lvl-pack.zip) may only be distributed 
+by means of electronic transfer, free of any charge to the 
+recipient, and may not be modified in any way. All the files 
+included in the original package must remain intact and 
+unmodified.
+
+This package may not be distributed on any CD-ROM, nor be
+used on a commercial multi-player server without the prior,
+explicit written consent from all the level authors involved.
+
+
+

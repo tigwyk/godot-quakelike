@@ -1,0 +1,48 @@
+=========================================================================
+
+Title                   : Future Brownie
+Release date            : Midnight December 31st 1999 - January 1st 2000
+File name               : ik3dm1.bsp
+
+Author                  : Iikka "Fingers" Keranen
+Email Address           : fingers@mail.planetquake.com
+
+Map description         : My first experiment with Quake3 map building...
+                          Actually a semi-conversion of my latest Q2/Q1
+                          map "Farewell to Fudge Brownies", but in a 
+                          completely different theme.
+
+                          I ran into trouble with all the curves... Seems
+                          like Q3 doesn't really like as curvy architecture
+                          as we're used to with Quake and Quake2 levels;
+                          the texture alignment was damn near impossible,
+                          and even when it looks perfect in the editor,
+                          the curves don't perfectly blend into the 
+                          environment in game, resulting in visible seams :-(
+
+                          Anyway, I kind of like this little map... Very
+                          non-Quake3-ish theme with smooth and clean gameplay.
+                          Supports bots and stuff.
+            
+Thanks to               : id 
+=========================================================================
+
+***** Construction *****
+
+Editor used             : Q3Radiant
+Known Bugs              : Q3 seems to occasionally produce seams between curves. :P
+Build Time              : Maybe total of 3 days?
+Compile machine         : p2/350
+Compile Times           : About a minute
+  
+=========================================================================
+
+* How to use the .pk3 *
+
+copy ik3dm1.pk3 to your baseq3 directory
+run Q3A, and type "/map ik3dm1" in the console (~ key)
+
+* Copyright / Permissions *
+
+You're allowed to redistribute this level via electronic media such as Internet,
+and free of charge. Any commercial use without a permission is prohibited.

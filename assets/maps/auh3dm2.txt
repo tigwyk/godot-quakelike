@@ -1,0 +1,70 @@
+date: 3rd of Aug 2000.
+Quake3Arena DM/Tourney level.
+
+====================================================
+title:            The BackStab
+file:             auh3dm2.pk3
+author:           Auhsan
+email address:    auhsan@abonados.cplus.es
+URL:              http://planetquake.com/auhsan
+description:      1on1 or 3-6FFA map.
+
+====================================================
+play information
+
+skills 0,1,2,3:   no
+tourney:          1on1 and 2on2
+deathmatch:       Small DM (up to 6 ppl)
+CTF:              no
+Bot File (aas):   yes
+other:            teleporter model modified by Oak
+new sounds:       no
+new graphics:     yes, some modified textures
+new music:        no
+
+how to start      start a server with +set sv_pure 0
+                  hit ~
+                  type /map auh3dm2
+                  hit ~ (to clear the console)
+                  
+====================================================
+info
+
+My first Q3A map, I took me a lot of time. Its a 
+base/industrial themed map inspired in oldschool q1
+maps.
+====================================================
+construction
+
+base:           none
+editor:         Q3Radiant by Id Software
+other progs:    
+know bugs:      none known
+build time:     about 2 months + 1 week of testings
+
+====================================================
+thanx to ...
+
+Betatesters:
+Deathmonger,Spawn,KDT.
+Lunaran,Than,Aragorn,Jonnhy Law,Niptlar,Jimmy,Cybear...
+
+other:
+Ppl at QMAP, #Terrafusion and #QERadiant for helping 
+me
+====================================================
+Distribution / Copyright / Permissions 
+
+Copyright (c) 1999 ray, tigger-on, tigger@ebom.org
+All rights reserved.
+
+Quake III Arena is a registered trademark of 
+id Software, Inc.
+
+This level may be electronically distributed only at 
+NO CHARGE to the recipient in its current state, MUST 
+include this .txt file, and may NOT be modified IN 
+ANY WAY. UNDER NO CIRCUMSTANCES IS THIS LEVEL TO BE 
+DISTRIBUTED ON CD-ROM WITHOUT PRIOR WRITTEN PERMISSION.
+
+====================================================

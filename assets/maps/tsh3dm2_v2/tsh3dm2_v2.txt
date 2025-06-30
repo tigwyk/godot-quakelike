@@ -1,0 +1,158 @@
+Release date: February 26th 2025.
+Team Deathmatch level.
+
+============================================================
+Title:            Rust and Chrome (Version 2)
+File:             tsh3dm2_v2.pk3
+Author:           tehSandwich
+Email address:    iheartwingnuts@gmail.com
+URL:              N/A
+Description:      A largish map, somehow wide-yet-tight, meant for VQ3 FFA and TDM. That doesn't mean it won't play well in CPMA, just don't expect much in the way of trick jumps. Also, Happy Belated 25th Anniversary, Quake III Arena!
+
+============================================================
+Play information:
+
+Tourney:          No
+Deathmatch:       4 to 8 players, 16 player starts
+Team Deathmatch:  Yes
+CTF:              No
+Bot File (aas):   Yes
+Other:            No
+New Sounds:       No
+New Graphics:     Yes, some minor edits on official textures, some of my own...
+New Music:        No
+
+How to play:      Place tsh3dm2_v2.pk3 in your /baseq3/ folder,
+                  Start Quake 3,
+                  Hit tilde key (or whatever key that brings up the console),
+                  Type \map tsh3dm2,
+                  Type \addbot <botname> <skill> if you want to play with a bot,
+
+                  or select tsh3dm2_v2 from the skrimish menu. 
+============================================================
+Info:
+
+What was meant to be a duel map in the style of q3tourney4 somehow became something much larger. I would have liked to make something awesome with loads of self-made custom textures but I only have so much time to spend making this. Consider this a way to make up for all those contests where I failed to submit a map.
+
+The name "Rust and Chrome" is as a result of making most of the interior areas shiny chrome... then making the exterior area caked in rust. Blame 25 years worth of acid rain. Seriously, that sky doesn't look healthy at all.
+
+Also, this will be 21 years since I've made maps, starting with Unreal Tournament in late December 2003... that sure doesn't make me feel any younger.
+
+As for why it's "tsh3dm2" and not "tsh3dm1", my dm1 was my aborted submission for the first Maverick Mapping Competition in 2009 for which there was an actual release of two alphas. Even in 2024/2025, it's still in development!
+
+The map comes with the source .map file in the .pk3, which assumes you have q3netpack.pk3 installed for the model files.
+
+============================================================
+Changelog:
+
+Beta 1:
+Original Release! Will need more polish for final release.
+
+Beta 2:
+* Widened several areas in the lowest areas of the map.
+** Bottom of "Machines", "Below" between Mega and "Outdoor Alley" + Mega area, Mid at "Monitor Fork"...
+* Added jumppad at "Monitor". Goes up to the upper area with GL/Red Armor.
+** As a result, the upper area is also widened.
+* Most doors have been removed.
+** All doors but those with the lozenge design (Pipes/Machines and Borg Cubes) have been removed from Mid.
+** Door leading to the Back area is now perma-opened (i.e. made into normal brushes and placed where their open state should be.
+** Doors to Outside Alley, Northern Hallway and Blue/Spiral Fork left alone.
+** The fake door in the back area has been partially opened to reveal... fallen-off panels and metal strips. Now you know what happened to all of those missing panels and strips.
+*** The fake doors have red strip lighting and the small room behind has more red lighting, just to say that this is off-limits.
+* Added path to Mid (The "maintenance entrance") from the North Hallway. It's narrow because there's really not a whole lot of space to maneuver.
+** There's a window looking over the outside area, giving sightlines (but not *shoot*lines) outside from inside and inside from outside as well as adding more to that part of the wall than just "patch10_beatup2".
+*** Door to North Hallway is moved back both to allow the door to face the window and for item placement tweaks.
+* Added path from "Below" with jumppad that leads to top of Blue/Spiral, near the RG. "Below" RL is moved into the tunnel.
+* Widened area left of the giant screen.
+* Removed jumppad at "Machines" and replaced it with teleporter, leads to where YA was.
+** For that matter, added trick jump for CPM to go to the same level (Now to find a way to integrate it better with the rest of the level....)
+* Machines YA moved down where SG was, SG replaces Quad, Quad replaces LG, LG placed in front of Teleporter Exit.
+* Monitor SG and RL switched places and both have been placed more in the open.
+* Added second LG in the North Hallway, just beside the Maintenance Entrance.
+* +50 moved from Monitor to Maintenance.
+* Numerous ammo and health tweaks.
+** Slugs is now in the Back area, as far as possible from Railgun *and* Quad.
+* Other minor layout tweaks.
+* Location names changed accordingly.
+* Due to Devotion automatically turning "Blue", uh... blue (normally for CTF), renamed "Blue" to "Spiral". I'm open for better name ideas.
+* General polish and stuff.
+* Bots can now easily reach Red Armor (but they'll never pick it for some reason).
+* Resized levelshot to Powers of 2.
+
+Beta 3:
+* The remaining openings to Outside now have fake vault doors.
+* Added ceiling detail to Machines room.
+* Turned the trick jump thing into a radiator-looking thing.
+** Made it taller so to not jump over it by accident while trying to jump on it.
+* Increased lightmap resolution in areas with significant shadows.
+** Chopped some larger lightmap islands as well.
+* Lowered Back Jumppad's target so you can't bonk on the ceiling trim anymore (and I don't need it to be nonsolid anymore).
+** Easter Egg window is still reachable. Guess I made it too high in the first place.
+* Many panels were removed.
+* More general eye candy.
+* Spiral YA and RG switched places.
+* Removed 2nd LG and put PG in it's place.
+* Moved Mid SG down, added 3rd YA in it's place.
+* A few ammo and health tweaks.
+* Location names changed accordingly.
+
+RC 1:
+* The remaining openings to Outside now have fake vault doors... for real. I forgot the Outside to North Hallway opening.
+** The fake door for Below had it's teeth centered for good measure.
+* Simplified pillar design at Below (it's original design bugged me...).
+* Added more eye candy in Monitor room (making the top somewhat less bland).
+* Removed some singleton shards for +5 bubbles in the tunnel (mainly to guide bots)
+* Made it so bots will actually take the jumppad in the tunnel (preferably without the bots jumping right back).
+* Added FFA item set: +50 is Invis/Regen in FFA, +50 goes to it's previous place in FFA, replacing the +25 there.
+** It gets a marker of it's own as a result, so does RA to keep it consistent. It also means that a measly +50 has a marker in TDM...
+* Some more general polish.
+
+RC 2:
+* Now using the gametype tag (which I totally forgot about) instead of the "notffa" and "notteam" tags for the item sets. This also means that there's a Duel item set (TDM without Quad) instead of reusing the FFA item set.
+
+Final:
+* Clipped side of Spiral Jumppad and Machines ceiling.
+* Light pass now uses -cpma for competitive-approved retina-burning vertex lighting that, thankfully, doesn't clobber vertex lighting for models that actually need it.
+* Some final bits of polish.
+
+Version 2:
+* Some extra polish to bring to the level of the Quake Live version. Turns out I forgot some tiny spots that were caulk in mid and clipping on a monitor.
+** A brush on the big monitor's bezel accidentally used playerclip and was made shoot-through but, since it made shooting down to the lower level easier, I just officially made it nonsolid.
+
+============================================================
+Construction:
+
+Base:              None, made from scratch.
+Editor:            NetRadiant-Custom
+Other progs:       Photoshop, Substance Designer
+Known bugs:        None known.
+Construction time: 2 months
+Build flags:
+-meta -np 10 (BSP)
+-vis -saveprt (VIS)
+-light -patchshadows -samples 4 -randomsamples -dirty -dirtdepth 128 -bounce 20 -bouncescale 1.25 -bouncegrid -thresh 0.125 -debugsamplesize -shade -shadeangle 10 -cpma (LIGHT)
+Number of Brushes and Patches: 5105 brushes, 345 patches
+
+============================================================
+Thanks to ...
+
+Sprony and Map-Center, for hosting the 25th Anniversary Jam.
+Uzugijin for the cake model. (The cake isn't a lie!)
+Foo, Spike and cityy for their feedback.
+
+============================================================
+Distribution / Copyright / Permissions 
+
+Copyright (c) 2025 tehSandwich. 
+All rights reserved.
+
+Quake III Arena is a registered trademark of id Software, Inc.
+
+This level may be electronically distributed only at NO
+CHARGE to the recipient in its current state, MUST include
+this .txt file, and may NOT be modified IN ANY WAY. 
+UNDER NO CIRCUMSTANCES IS THIS LEVEL TO BE DISTRIBUTED ON
+PHYSICAL MEDIUM SUCH AS A DVD WITHOUT PRIOR WRITTEN 
+PERMISSION.
+
+============================================================

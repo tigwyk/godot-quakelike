@@ -1,0 +1,75 @@
+TITLE                   : Natestah's Beotch
+FILENAME                : Natedm2.zip
+AUTHOR                  : Nathan Silvers
+DATE                    : 07.18.2000
+TYPE                    : Deathmatch
+EMAIL ADDRESS           : nsilvers@home.com
+HOMEPAGE URL            : http://www.natestah.com
+.zip CONTENTS           : map-Natedm2.pk3
+			: natedm2.txt
+--------------------------------------------------------------------------------
+* LEVEL DESCRIPTION *
+--------------------------------------------------------------------------------
+my second Quake3 level.. this includes custom mapobjects which really gives it a
+unique look.  I'm hoping to start a trend here with  the mapobject thing,
+hopefully other mappers will gain an interest in creating map objects and make
+some really nice levels.  The possibilities are endless with mapobjects!
+
+Feel free to use my models for your custom levels just give me some credit 
+(please). if you'd like to get a hold of the source files (3dstudios stuff) send 
+an email.
+--------------------------------------------------------------------------------
+DEATHMATCH              : 6 Player Respawn Point(s)
+Team Deathmatch         : NO
+SUGGESTED PLAYER LOAD   : 2-4
+
+DIFFICULTY SETTINGS     : 
+NEW TEXTURES            : Yes
+NEW SOUNDS              : No
+newmodels =)            : YES
+
+--------------------------------------------------------------------------------
+* CONSTRUCTION *
+--------------------------------------------------------------------------------
+MAP BASE                : New Map
+PREFABS USED            : None
+EDITOR(S) USED          : Q3radiant
+OTHER UTILITIES USED    : Photoshop,wordpad,3dsmax,q3ase
+
+KNOWN BUGS              : there are no ambient sounds?  does that count as a bug?
+
+COMPILE MACHINE         : Athlon 800,256Megs RAM
+BSP TIME                : somewhere around 30Minutes for full compile
+
+
+--------------------------------------------------------------------------------
+* OTHER LEVELS BY THE AUTHOR *
+--------------------------------------------------------------------------------
+: R33t OwnAge - First Quake3 level
+: RA2Nate1- A Rocket Arena 2 level (Quake2) built from converted Quake 1 levels
+: 5 levels for the Playstation (1) version of Unreal that was canned
+--------------------------------------------------------------------------------
+* CREDITS *
+--------------------------------------------------------------------------------
+ME....
+all the folks on the two beta forums this was posted to www.planetquake.com/lvl 
+qw3.gamedesign.net for they're comments and suggestions
+and idsoftware/Q3radiant dude
+
+
+================================================================================
+* COPYRIGHT / PERMISSIONS *
+--------------------------------------------------------------------------------
+Authors MAY NOT use this level as a base to build additional levels.
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS. If you don't co-operate, then DON'T DISTRIBUTE IT
+IN ANY FORM.
+
+This LEVEL may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this LEVEL on any CD or distribute it in
+any way without my written permission.
+
+Quake III (C) 1999 id Software. All rights reserved.
+
+[END OF DATA]==========================================================[.txtGen]

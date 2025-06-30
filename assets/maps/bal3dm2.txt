@@ -1,0 +1,78 @@
+================================================================
+Title                   : Golconda
+BSP Name                : Bal3dm2.bsp
+Author                  : Benoit "Bal" Stordeur
+Release Date            : 27/6/2000
+Email Address           : Bal@planetquake.com
+Home Page               : http://www.planetquake.com/bal
+Game                    : Quake 3 arena DM
+File size               : 2.63Mb
+
+Description             : This map has be done for a very long time, but I was just to lazy to release
+			  it, I hope it works allright for 1on1, or 3-4 ffa...
+
+Additional Thanks to    : Robert duffy, for Q3radiant, kick ass editor
+                          ID for quake1, and for a pretty 3d engine...
+                          All the great mappers that made me wanna start mapping
+                          (GeN, Headshot, Ztn, Frib, Peej...)
+			  Iikka Keranen for the cool textures
+			  Headshot for all the cool shit he's done
+			  The cool people in #terrafusion
+			  Nehahra team, for kickin major ass
+
+Beta testing		: Alcatraz and his crew (www.planetquake.com/bighouse)
+and Feedback		  Yogi (www.freshteam.co.uk)
+			  Vondur (www.planetquake.com/vondur)
+			  Excessus (aka, the crazy blasphemous anti triangular light fanatic)
+			  (www.planetquake.com/excessus)
+			  Skull 
+			  LordImric (www.planetquake.com/lordimric)
+			  Lunaran (lunaran.fragland.net)
+			  Than	(www.planetquake.com/cesspit)
+			  Wiebo (www.planetquake.com/wdw/)
+			  (hope i didnt forget anyone! lots of people have seen it...)
+			  Thanks guys!
+			  
+Other stuff             : Dont hesitate to send me feedback! and please tell me if u review it or
+			  put it on a server...
+                                          
+Previous work           : [Q1] Baldm1 - Horror at Red Hook
+                          [Q1] Baldm2 - In The Vault
+                          [Q1] Baldm3 - Tainted Meat
+			  [Q1] Baldm4 - Eternal Life
+			  [Q1] Baldm5 - When the Beast Prevails
+			  [Q1] Baldm6 - Scrap Metal
+			  [Q1] Baldm7 - Black Feathered Wings
+			  [Q1] Reinc5 - Somewhere in the Vast
+			  [Q3] Bal3dm1 - Ash Rain
+                                                    
+================================================================
+
+* MAP Information *
+
+New Textures            : Mainly ikbase, some modified stuff from me, and one from Yogi
+New sounds              : nope
+
+* Construction *
+
+Base                    : from scratch
+Construction Time       : Around 2 week
+Build programs          : q3map =)
+Build Time              : around 30 minutes
+Compile machine         : P2 400mhz, 128mg RAM
+Editor used             : q3radiant!
+Other programs          : psp5, q3build, curry...
+Known Bugs              : Nothing major (I hope) some tiny curve bugs here and there, but they
+			  shouldnt be bothersome.
+			  The q3 sv_pure bullshit can always stop this map from working (depends
+			  on the direction ur screen is facing, or on the position of the stars
+			  in the sky as far as im concerned) just type in sv_pure 0 to get it working...
+
+* Copyright / Permissions *
+
+All textures in this level remain property of their respective owners.
+You may NOT use this level as a base to build additional levels without
+explicit permission of the author!
+You may distribute this BSP in any electronic format (BBS, Internet,
+CD, etc) but u may NOT by any means use it to gain money.
+If u paid to get this, then u got totally riped off! =)

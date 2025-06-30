@@ -1,0 +1,58 @@
+*> 30.08.2000 <*
+================================================================
+Title			: INFERNAL GENESIS
+Filename		: Devdm3.pk3
+Author			: Rafal "DeV" Szkolnicki
+Email Address		: yawgmoth@kki.net.pl
+
+Description		: a small tourney map designed for competetive play with Challenge
+			  Pro Mode (http://www.challenge-world.com/promode).
+
+Additional note		: this map is also playable without the CPM
+
+My Previous maps	: (Q3A) Devdm2	 - Mind Control
+			  (Q3A) Devdm1	 - Invitation to Darkness
+			  (Q2)	Frenzy   - Kill Frenzy
+			  (Q2)  Ravtotal - Total Disharmony
+
+Thanks to		: id software for all Quake games
+			  Rafal Wisla for very useful tool AddTexture
+			  All the people who created Challenge Pro Mode
+
+================================================================
+*> Play information <*
+
+Game			: Quake 3 Arena
+Deathmatch		: Tourney, FFA 3-4; 
+Capture the Flag	: No
+Respawn spots 		: 9
+Bot match		: bots fully supported
+
+*> Map informatoin <*
+
+BSP name		: Devdm3.bsp
+Shader name		: Devdm3.shader	
+Entities		: 301
+Non-entity brushes	: 1791
+New sounds		: No
+New textures		: Yes, a few by me (modified id textures and new ones)
+			 
+*> Construction <*
+
+Base			: New map
+Construction time	: 2 months
+Compile machine         : P2 350mhz, 64mg RAM
+Compile time		: BSP 35s; VIS 428s; LIGHT 1722s
+Editor used		: Q3Radiant (build 197)
+Utilities used		: Q3MAP, BSPC, Photoshop, AddTexture
+
+Known bugs		: None known. Mail me if you find any.
+
+*> Copyright / Permissions <*
+
+Authors MAY NOT use this level as a base to build additional
+levels.
+
+You may not include or distribute this map in any sort of commercial
+product without my permission.  
+================================================================

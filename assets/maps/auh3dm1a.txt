@@ -1,0 +1,67 @@
+date: 10 October 2000.
+Quake3Arena DM/Tourney level.
+
+====================================================
+title:            OverWhelming Hostility
+file:             auh3dm1.pk3
+author:           Auhsan
+email address:    Auhsan@planetquake.com
+URL:              http://planetquake.com/auhsan
+description:      little/medium sized green gothic map for tourney and Deathmatch.
+====================================================
+play information
+
+skills 0,1,2,3:   no
+tourney:          1on1, 2on2
+deathmatch:       3-5
+CTF:              no
+Bot File (aas):   yes
+other:            no
+new sounds:       yes
+new graphics:     yes, modified textures mainly
+new models: 	yes
+new music:        no
+
+how to start      start a server with +set sv_pure 0
+                  hit ~
+                  type /map auh3dm1
+                  hit ~ (to clear the console)
+                  
+====================================================
+construction
+
+base:           from scratch
+editor:         Q3Radiant 2.02 
+know bugs:      none known
+build time:     1 moth + 1 week of betatesting
+
+====================================================
+thanx to ...
+
+Betatesters: 
+Bal - http://www.planetquake.com/bal
+Deathmonger - http://www.planetquake.com/deathmonger
+GrindSpire - http://www.planetquake.com/grindspire
+IronHammer - http://www.geocities.com/ih_juanjo/IRONHAMMER.HTM
+NanoSpawn/Spawn/Spawny, Card0
+
+the cool people at #terrafusion and level editing forum from www.quake3world.com
+
+Teleporter texture based on texture from mrcq3dm2 by Mr. Clean.
+
+Cool 3Skull model by Oak - http://www.planetquake.com/oakshiro.
+
+Wind Sounds from Storm Pack by Death2Uall - http://factory.thebackburner.com/
+====================================================
+Distribution / Copyright / Permissions 
+
+Quake III Arena is a registered trademark of 
+id Software, Inc.
+
+This level may be electronically distributed only at 
+NO CHARGE to the recipient in its current state, MUST 
+include this .txt file, and may NOT be modified IN 
+ANY WAY. UNDER NO CIRCUMSTANCES IS THIS LEVEL TO BE 
+DISTRIBUTED ON CD-ROM WITHOUT PRIOR WRITTEN PERMISSION.
+
+====================================================

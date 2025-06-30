@@ -1,0 +1,93 @@
+================================================================
+Title                   : Heavy Duty  -  Final Release
+PK3 Name                : mrcq3t3.pk3
+Date			: June 25, 2000
+Author                  : Todd 'Mr.CleaN' Rose
+Email Address           : mrclean@planetquake.com
+Home Page		: http://www.planetquake.com/mrclean/
+		  			                            
+
+Thanks to		: id Software (of course), betatesters
+
+betatesters		: Team Abuse, esp. a|citizen
+
+
+Addtional Info		: Merged wall textures w/trim created from original id Q3 textures
+			  windquiet.wav created from baseq3\sound\world\wind2.wav, adjusted for lower volume	
+
+
+Revisions:
+Final Release			-minor cosmetic adjustments
+
+RC, ver 0.5 (6.17.00)		-replaced gl ammo at teleport overlook w/ lg ammo
+				-added quiet ambient wind sound
+
+Alpha Test, ver 0.4 (6.13.00)	-revision suggestions per a|citizen
+				-switched weapon placement
+				-replaced 50h with MH
+				-replaced two lower SG ammo's with 25h
+				-replaced upper 25h with 5h
+				-switched rg/gl ammo in large room by upper stairs
+
+Alpha Test, ver 0.3 (6.03.00)	-created merged textures for wall w/trim
+				-aligned wall and trim textures throughout map
+				-reduced width on trigger_teleports so player does not teleport through frame
+				-changed some lighting placement/values
+				-added ambient lighting to brighten up walls and shadows a bit
+				-added some details (banners)
+
+Alpha Test, ver 0.2 (5.17.00)
+				-initial placement of all weaps, ammo, items
+				-reasonable facsimile of intended lighting (not all fixture in place)
+				-added info_player_intermissions
+				-Changed name from 'Heavy Duty' to 'No Sanctuary' 
+
+Alpha Layout, ver 0.1 (5.16.00)
+				-minimum entities
+				-minimum lights
+				-minimum detailing
+================================================================
+
+* Play Information *
+
+Game			: Quake 3
+Bot Match		: Route Included
+Deathmatch		: 1on1
+Capture The Flag	: No
+
+* MAP Information *
+
+BSP Name                : maps/mrcq3t3.bsp
+Shader Name		: scripts/mrcq3t3.shader
+Textures		: textures/mrcq3t3/*
+Sounds			: sound/movers/plats/*
+Extra LIGHT		: Yes
+VIS level 4		: Yes
+
+* Construction *
+
+Base			: New
+New Textures		: teleport, sky textures
+New Shaders		: teleport, sky shaders
+Construction Time	: 
+Editor used		: Q3Radiant (build 181)
+Qutilities		: Q3MAP
+Other utilities		: BSPC, Photoshop, Paint Shop Pro
+
+
+* Copyright / Permissions *
+
+All original and composed textures in this level remain property of
+Todd 'Mr.CleaN' Rose.
+
+All original and edited shaders in this level remain property of
+the sources respective owners.
+
+You may NOT use this level as a base to build additional levels.
+You MAY use the textures and shaders but give credit where credit is due.
+
+You MAY distribute this PK3 in any electronic format (BBS, Internet,
+CD, etc) as long as you contact me first, include all files intact in
+the original archive, and send me a free copy (if it's a CD :) Thanks.
+
+

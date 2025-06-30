@@ -1,0 +1,8 @@
+[gd_scene load_steps=3 format=3 uid="uid://dmx6kullmo488"]
+
+[ext_resource type="PackedScene" uid="uid://cn582r3vwvsb3" path="res://assets/maps/auh3dm1/maps/auh3dm1.bsp" id="1_y0qhk"]
+[ext_resource type="PackedScene" uid="uid://bwggrf7sbmkcv" path="res://addons/PlayerCharacter/Scenes/PlayerCharacterScene.tscn" id="2_q3o3h"]
+
+[node name="auh3dm1" instance=ExtResource("1_y0qhk")]
+
+[node name="PlayerCharacter" parent="." index="31" instance=ExtResource("2_q3o3h")]

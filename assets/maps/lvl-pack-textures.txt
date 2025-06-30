@@ -1,0 +1,15 @@
+--------------------------------------------------22.Nov.2000--
+   lvl-pack-textures
+
+This is a very small pk3 that contains a few missing textures 
+from the levels included with the lvl-pack release. 
+
+The textures are originally from the ThreeWave CTF release.
+
+for more information about ThreeWave CTF;
+http://www.planetquake.com/lvl/comments.asp?id=3
+
+For more info about the lvl-pack check out;
+http://www.planetquake.com/lvl/
+
+
